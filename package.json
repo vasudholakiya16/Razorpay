@@ -1,0 +1,20 @@
+{
+  "name": "tailwind_css",
+  "version": "1.0.0",
+  "description": "Basic Info about Tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "feather": "^0.0.5",
+    "postcss": "^8.4.47",
+    "tailwind_css": "file:",
+    "tailwindcss": "^3.4.11",
+    "vite": "^5.4.5"
+  }
+}
